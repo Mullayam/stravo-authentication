@@ -1,0 +1,6 @@
+{
+  "ENVIRONMENT": "PRODUCTION",
+  "Client_ID": " CLIENT_ID",
+  "Client_Secret": "dddddddddddddddddddddddddddddddd",
+  "Callback_URL": "http://localhost:5200/callback"
+}
